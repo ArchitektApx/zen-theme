@@ -1,0 +1,35 @@
+.tabbrowser-tab {
+    .tab-background, .tab-icon-stack, .tab-label-container {
+        transition: revert !important;
+    }
+
+    .tab-background {
+        transition: revert !important;
+        overflow: revert !important;
+        position: relative;
+        &::before {
+            content: revert;
+            width: revert;
+            height: revert;
+            transition: revert;
+            opacity: revert;
+            background-color: revert;
+            mask-image: revert;
+        }
+
+        &::after {
+            content: revert;
+            position: revert;
+            width: revert;
+            height: revert;
+            opacity: revert;
+            transition: revert;
+            border-radius: revert;
+            background: revert;
+
+            @media (prefers-color-scheme: dark) {
+                background: revert;
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+/*Better extension Menu*/
+
+/*Hides the unnecessary text*/
+.unified-extensions-item-message-deck > label {
+  display: none !important;
+}
+
+/*Reduces the unnecessary height*/
+.toolbar-menupopup :is(menu, menuitem), .subview-subheader, panelview .toolbarbutton-1, .subviewbutton, .widget-overflow-list .toolbarbutton-1 {
+  max-height: 3em !important;
+}
