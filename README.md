@@ -16,6 +16,7 @@ CSS Files I use to theme my zen-browser
 - [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser)
 - [extensiosMenu.css](https://discord.com/channels/1088172780480114748/1281374861536526356/1337502917292326975)
 - [newTab.css](https://discord.com/channels/1088172780480114748/1278814497917632552/threads/1317054453836415048)
+- [swipeAnimation.css](https://github.com/sameerasw/zen-themes/tree/main/Zenimations)
 - [misc css from the zen discord](https://discord.com/channels/1088172780480114748)
 
 ## Zen Mods I use
@@ -49,7 +50,6 @@ natsumi.sidebar.zen-sidebar-glass-effect =true
 natsumi.theme.fullscreen-glass-effect	= true
 
 zen.theme.accent-color = #544a66
-zen.urlbar.replace-newtab = false
 zen.view.mac.show-three-dot-menu = true
 zen.view.show-newtab-button-top = false
 ```
