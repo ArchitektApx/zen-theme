@@ -62,3 +62,18 @@ CSS Files / Settings / Zen Mods I use to theme my zen-browser
 ![Super Url Bar Settings](assets/superurlbar.png)
 - Super Pins
 ![Super Pins Settings](assets/superpins.png)
+
+## Stylebot 
+
+Domain specific [stylebot](https://stylebot.dev/) css modifications for transparency/blur are in the [stylebot directory](/stylebot)
+
+- [discord.com](/stylebot/discord.com.css)
+- [github.com](/stylebot/github.com.css)
+- [google.com](/stylebot/google.com.css)
+- [instagram.com](/stylebot/instagram.com.css)
+- [reddit.com](/stylebot/reddit.com.css)
+- [x.com](/stylebot/x.com.css)
+- [youtube.com](/stylebot/youtube.com.css)
+- [zen-browser.app](/stylebot/zen-browser.app.css)
+
+Credits go to [sameerasw](https://github.com/sameerasw/my-internet) for sharing his css styles
