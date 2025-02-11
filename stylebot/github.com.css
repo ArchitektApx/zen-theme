@@ -52,3 +52,9 @@ div.prc-Dialog-Dialog-luvDS, .Overlay, .Overlay__StyledOverlay-sc-51280t-0, deta
   border-radius: 1em;
   /* margin-top: 1em; */
 }
+
+.Popover-message,
+.Dialog__StyledDialog-sc-uaxjsn-1,
+.search-suggestions {
+  background-color: black;
+}
