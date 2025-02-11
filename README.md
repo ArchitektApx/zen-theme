@@ -20,6 +20,7 @@ CSS Files / Settings / Zen Mods I use to theme my zen-browser
 - [extensiosMenu.css](https://discord.com/channels/1088172780480114748/1281374861536526356/1337502917292326975)
 - [newTab.css](https://discord.com/channels/1088172780480114748/1278814497917632552/threads/1317054453836415048)
 - [swipeAnimation.css](https://github.com/sameerasw/zen-themes/tree/main/Zenimations)
+- [shyToolbar.css](https://github.com/Naezr/zen-browser-css/blob/main/HiddenToolbar/shy-toolbar.css)
 - [misc css from the zen discord](https://discord.com/channels/1088172780480114748)
 
 ## About:config settings
