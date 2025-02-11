@@ -68,10 +68,12 @@ CSS Files / Settings / Zen Mods I use to theme my zen-browser
 
 Domain specific [stylebot](https://stylebot.dev/) css modifications for transparency/blur are in the [stylebot directory](/stylebot)
 
+- [blog.fefe.de](/stylebot/blog.fefe.de.css)
 - [discord.com](/stylebot/discord.com.css)
 - [github.com](/stylebot/github.com.css)
 - [google.com](/stylebot/google.com.css)
 - [instagram.com](/stylebot/instagram.com.css)
+- [news.ycombinator.com](/stylebot/news.ycombinator.com.css)
 - [reddit.com](/stylebot/reddit.com.css)
 - [x.com](/stylebot/x.com.css)
 - [youtube.com](/stylebot/youtube.com.css)

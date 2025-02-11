@@ -1,0 +1,18 @@
+h3,
+b,
+li,
+p {
+  color: white;
+}
+
+h2 > a {
+  color: white;
+}
+
+a {
+  color: bisque;
+}
+
+body > div:nth-last-child(2) {
+  color: white;
+}
